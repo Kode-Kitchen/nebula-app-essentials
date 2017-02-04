@@ -23,6 +23,7 @@
     "nebula-queue": "arsnebula/nebula-queue#*",
     "nebula-i18n": "arsnebula/nebula-i18n#*",
     "nebula-storage": "arsnebula/nebula-storage#*",
-    "nebula-validate": "arsnebula/nebula-validate#*"
+    "nebula-validate": "arsnebula/nebula-validate#*",
+    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout#*"
   }
 }
