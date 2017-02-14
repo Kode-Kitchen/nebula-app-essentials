@@ -1,6 +1,6 @@
 {
   "name": "nebula-app-essentials",
-  "description": "Essential web components for building single-page applications.",
+  "description": "Essential web components for single page applications.",
   "license": "ISC",
   "authors": [
     "Chris Beckett <chrisb@arsnebula.com>"
@@ -23,7 +23,6 @@
     "nebula-queue": "arsnebula/nebula-queue#*",
     "nebula-i18n": "arsnebula/nebula-i18n#*",
     "nebula-storage": "arsnebula/nebula-storage#*",
-    "nebula-validate": "arsnebula/nebula-validate#*",
-    "nebula-sidebar-layout": "arsnebula/nebula-sidebar-layout#*"
+    "nebula-validate": "arsnebula/nebula-validate#*"
   }
 }

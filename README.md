@@ -2,4 +2,4 @@
 
 # nebula-app-essentials
 
-Essential web components for building single-page applications.
+Essential web components for single page applications.
