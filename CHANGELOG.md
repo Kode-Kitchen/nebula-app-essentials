@@ -1,5 +1,9 @@
 # Change Log
 
+## [v1.0.3](https://github.com/arsnebula/nebula-app-essentials/releases/tag/v1.0.3) (2017-02-26)
+
+- Added dispatch behaviors.
+
 ## [v1.0.2](https://github.com/arsnebula/nebula-app-essentials/releases/tag/v1.0.2) (2017-02-14)
 
 - Removed sidebar layout.
