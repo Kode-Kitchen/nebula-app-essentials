@@ -1,5 +1,9 @@
 # Change Log
 
+## [v2.0.0](https://github.com/arsnebula/nebula-app-essentials/releases/tag/v2.0.0) (2017-04-21)
+
+- Updated all components to v2 releases.
+
 ## [v1.0.4](https://github.com/arsnebula/nebula-app-essentials/releases/tag/v1.0.4) (2017-04-21)
 
 - Updated dependencies to limit semver range to v1.x.x releases.
