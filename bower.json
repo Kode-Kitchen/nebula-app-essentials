@@ -19,11 +19,11 @@
     "test"
   ],
   "dependencies": {
-    "nebula-routing": "arsnebula/nebula-routing#*",
-    "nebula-queue": "arsnebula/nebula-queue#*",
-    "nebula-i18n": "arsnebula/nebula-i18n#*",
-    "nebula-storage": "arsnebula/nebula-storage#*",
-    "nebula-validate": "arsnebula/nebula-validate#*",
-    "nebula-dispatch": "arsnebula/nebula-dispatch#*"
+    "nebula-routing": "arsnebula/nebula-routing#^1.0.0",
+    "nebula-queue": "arsnebula/nebula-queue#^1.0.0",
+    "nebula-i18n": "arsnebula/nebula-i18n#^1.0.0",
+    "nebula-storage": "arsnebula/nebula-storage#^.1.0.0",
+    "nebula-validate": "arsnebula/nebula-validate#^1.0.0",
+    "nebula-dispatch": "arsnebula/nebula-dispatch#^1.0.0"
   }
 }
